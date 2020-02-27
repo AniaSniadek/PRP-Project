@@ -1,0 +1,6 @@
+﻿  Osoba.cpp
+  Przerwa.cpp
+  Testy jednostkowe.cpp
+  Generowanie kodu...
+c:\users\sniad\desktop\studia\2 rok\pracownia programowania\projekt mieszkancy pliki\projekt mieszkancy pliki\przerwa.cpp(85): warning C4715: "Przerwa::sprawdzCzas”: niewszystkie ścieżki kodu zwracają wartość
+  Testy jednostkowe.vcxproj -> C:\Users\sniad\Desktop\STUDIA\2 ROK\Pracownia programowania\Projekt mieszkancy pliki\Debug\Testy jednostkowe.exe
